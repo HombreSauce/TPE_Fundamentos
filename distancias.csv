@@ -1,0 +1,20 @@
+ID,Estacion,Cerca 1,Dist 1,Cerca 2,Dist 2
+P2,Verano,P1,5.1 km,P3,1.1 km
+P6,Otoño,P5,1.3 km,-,-
+P8,Otoño,P7,1.3 km,P9,2.3 km
+P21,"Verano, Invierno, Primavera",P20,9.0 km,P22,2.3 km
+P30,"Primavera, Verano",P29,4.0 km,P31,2.4 km
+P23,Verano,P22,1.5 km,P24,1.5 km
+P18,"Invierno, Verano, Primavera",P17,1.0 km,P19,3.0 km
+P27,Verano,P26,2.5 km,P28,1.3 km
+P26,Verano,P25,5.0 km,P27,2.5 km
+P22,"Verano, Otoño",P21,2.3 km,P23,1.5 km
+P19,"Primaver, Verano, Invierno",P18,3.2 km,P20,3.0 km
+P31,Primavera,P30,2.3 km,P32,8.8 km
+P24,Verano,P23,1.5 km,P25,1.8 km
+P20,"Primavera, Verano, Invierno",P19,3.0 km,P21,8.7 km
+P29,"Primavera, Verano",P28,5.5 km,P30,4.18 km
+P32,Primavera,P31,8.8 km,P33,6.8 km
+P11,Verano,P10,3.0 km,P12,2.0 km
+P25,Verano,P24,1.8 km,P26,5.1 km
+P5,Otoño,P6,1.3 km,-,-

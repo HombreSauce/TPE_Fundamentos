@@ -1,0 +1,34 @@
+﻿CALIDAD DE AGUA DEL RÍO DE LA PLATA - 2021
+Sobre el conjunto de datos
+Este conjunto de datos incluye 166 mediciones en diferentes sitios del Río de La Plata durante 2021, y en general, uno en cada estación del año. 
+Descripción de las variables
+1. sitios: Localización específica donde se realizó el muestreo del agua.
+2. codigo: Identificador único para cada muestra o estación de muestreo.
+3. fecha: Fecha en la que se tomó la muestra de agua.
+4. año: Año en que se realizó el muestreo.
+5. campaña: Nombre o número de la campaña de monitoreo en la que se realizó el muestreo.
+6. tem agua: Temperatura del agua en grados Celsius.
+7. tem aire: Temperatura del aire en grados Celsius.
+8. od: Oxígeno disuelto, medido en miligramos por litro (mg/L), esencial para la vida acuática.
+9. ph: Medida de la acidez o alcalinidad del agua, en una escala de 0 a 14.
+10. olores: Presencia de olores en el agua, que puede indicar contaminación.
+11. color: Color del agua, que puede ser un indicador de la calidad del agua.
+12. espumas: Presencia de espumas en la superficie del agua, que puede ser un signo de contaminación.
+13. mat susp: Materia suspendida, que se refiere a partículas sólidas que flotan en el agua.
+14. colif fecales ufc 100ml: Unidades formadoras de colonias de coliformes fecales en 100 ml de agua, un indicador de contaminación fecal.
+15. escher coli ufc 100ml: Unidades formadoras de colonias de Escherichia coli en 100 ml de agua, otro indicador de contaminación fecal.
+16. enteroc ufc 100ml: Unidades formadoras de colonias de enterococos en 100 ml de agua, que también indican contaminación fecal.
+17. nitrato mg l: Concentración de nitratos en miligramos por litro (mg/L), que puede indicar contaminación por fertilizantes.
+18. nh4 mg l: Concentración de amonio en miligramos por litro (mg/L), que puede ser un indicador de contaminación orgánica.
+19. p total l mg l: Fósforo total en miligramos por litro (mg/L), que incluye todas las formas de fósforo en el agua.
+20. fosf ortofos mg l: Concentración de ortofosfatos en miligramos por litro (mg/L), que es un nutriente importante.
+21. dbo mg l: Demanda biológica de oxígeno en miligramos por litro (mg/L), que mide la cantidad de oxígeno requerido por microorganismos para descomponer materia orgánica.
+22. dqo mg l: Demanda química de oxígeno en miligramos por litro (mg/L), que mide la cantidad total de oxígeno requerido para oxidar materia orgánica e inorgánica.
+23. turbiedad ntu: Turbidez del agua medida en unidades NTU (Nephelometric Turbidity Units), que indica la claridad del agua.
+24. hidr deriv petr ug l: Hidrocarburos derivados del petróleo en microgramos por litro (µg/L), que indican contaminación por productos petroleros.
+25. cr total mg l: Concentración total de cromo en miligramos por litro (mg/L), un metal pesado que puede ser tóxico.
+26. cd total mg l: Concentración total de cadmio en miligramos por litro (mg/L), otro metal pesado que es tóxico en altas concentraciones.
+27. clorofila a ug l: Concentración de clorofila a en microgramos por litro (µg/L), que indica la cantidad de fitoplancton en el agua.
+28. microcistina ug l: Concentración de microcistinas en microgramos por litro (µg/L), que son toxinas producidas por ciertas algas.
+29. ica: Índice de calidad del agua, que puede ser un valor calculado para evaluar la calidad general del agua.
+30. calidad de agua: Clasificación general de la calidad del agua basada en los parámetros medidos.
